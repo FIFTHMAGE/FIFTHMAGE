@@ -49,18 +49,6 @@ I'm a Product Manager passionate about building impactful solutions at the inter
 ![FIFTHMAGE's GitHub stats](https://github-readme-stats.vercel.app/api?username=FIFTHMAGE&show_icons=true&theme=radical)
 
 
-
-## Projects
-
-### [Project 1: StableFlow](https://github.com/FIFTHMAGE/awesome-web-app)
-A web application built with React and Node.js that allows users to create and manage tasks.
-
-### [Project 2: Data Science Toolkit](https://github.com/FIFTHMAGE/data-science-toolkit)
-A collection of data science tools and utilities for data analysis and visualization.
-
-### [Project 3: Machine Learning Models](https://github.com/FIFTHMAGE/machine-learning-models)
-A repository containing various machine learning models and their implementations.
-
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/boluwatife-kumapayi-8836b3253)
